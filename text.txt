@@ -1,0 +1,20 @@
+primary_diagnosis                    gender
+Adenocarcinoma, NOS                  male       63
+                                     female     54
+Adenocarcinoma, intestinal type      male       14
+Adrenal cortical carcinoma           female     17
+Clear cell adenocarcinoma, NOS       male       31
+                                     female     26
+Epithelioid mesothelioma, malignant  male       20
+Hepatocellular carcinoma, NOS        male       36
+                                     female     28
+Infiltrating duct carcinoma, NOS     female     85
+                                     male       33
+Malignant melanoma, NOS              male       74
+                                     female     42
+Papillary adenocarcinoma, NOS        male       23
+                                     female     13
+Squamous cell carcinoma, NOS         male      163
+                                     female     67
+Transitional cell carcinoma          male       39
+                                     female     26
